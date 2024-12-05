@@ -1,0 +1,21 @@
+#item {
+    /* border: 3px solid black; */
+    /* height: 300px; */
+    width: 350px;
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    position: absolute;
+    color: white;
+    background-color: black;
+    top: 0;
+    padding: 10px;
+    margin: 0px;
+}
